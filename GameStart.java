@@ -6,7 +6,7 @@ import CFCode.ConsoleCF;
 import CFCode.GUICF;
 
 
-public class Test {
+public class GameStart {
   public static void main(String[] args) {
     Scanner reader = new Scanner (System.in);
     int gameMode = reader.nextInt();
